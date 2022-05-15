@@ -2,7 +2,7 @@
 My implementation: Python scripts and notebook experiments of classical &amp; deep learning NLP algorithms.
 
 ## Table of Content
-- [x] - [Preprocessing Tasks]()
+- [x] - [Word Prediction](https://github.com/nnitiwe-dev/nnit_nlp/tree/main/Word%20Prediction)
 - [ ] - Word Embedding/ Vectorization
 - [ ] - NLP Classification
 - [ ] - Transfer Learning
